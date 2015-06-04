@@ -1,0 +1,4 @@
+C:\Users\NaTasha\Documents\Visual Studio 2010\Projects\Spectrum2\Spectrum2\bin\Spectrum2.dll
+C:\Users\NaTasha\Documents\Visual Studio 2010\Projects\Spectrum2\Spectrum2\bin\Spectrum2.pdb
+C:\Users\NaTasha\Documents\Visual Studio 2010\Projects\Spectrum2\Spectrum2\obj\Debug\Spectrum2.dll
+C:\Users\NaTasha\Documents\Visual Studio 2010\Projects\Spectrum2\Spectrum2\obj\Debug\Spectrum2.pdb
